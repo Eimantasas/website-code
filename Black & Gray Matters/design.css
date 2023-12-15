@@ -1,0 +1,251 @@
+.header {
+display: flex;
+justify-content: space-around;
+position: fixed;
+top: 0;
+left: 0;
+width: 75%;
+padding: 35px 200px;
+background-color: rgb(57, 57, 57);
+}
+.navbar {
+display: flex;
+color: rgb(255, 255, 255);
+align-items: center;
+align-self: flex-start;
+}
+.navbar a {
+display: flex;
+font-size: 20px;
+text-decoration: none;
+font: normal normal normal 40px Helvetica;
+margin-right: 50px;
+color: rgb(255, 255, 255);
+}
+.logo
+{
+display: flex;
+font-size: 32px;
+color: rgb(182, 182, 182);
+font: normal normal normal 40px Helvetica;
+text-decoration: none;
+}
+
+body {
+top: 0px;
+left: 0px;
+background: #606060 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+#saul {
+margin-top: 15%;
+margin-left: 5%;
+background: transparent url('Image 2.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+#Goodman {
+margin-left: 500px;
+margin-top: -400px;
+font: normal normal bold 50px Helvetica;
+letter-spacing: 0px;
+color: #FFFAFA;
+opacity: 1;
+}
+
+#saulg {
+margin-left: 35%;
+bottom: 5%;
+font: normal normal 35px Helvetica;
+letter-spacing: 0px;
+color: #FFFAFA;
+opacity: 1;
+}
+
+#walter {
+margin-top: 400px;
+}
+a{
+text-decoration: none;
+color: #ffffff;
+}
+
+.line1 {
+margin-top: -350px;
+border: 2px solid #7f0101;
+opacity: 1;
+}
+
+#walt {
+display: flex;
+font: normal normal 37px Helvetica;
+color: #FFFAFA;
+opacity: 1;
+margin-left: 50px;
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#eladio {
+margin-top: 400px;
+}
+
+#florida {
+margin-top: 400px;
+}
+
+#don {
+display: flex;
+font: normal normal 37px Helvetica;
+color: #FFFAFA;
+opacity: 1;
+margin-left: 515px;
+margin-top: -35px;
+}
+
+#man {
+display: flex;
+font: normal normal 37px Helvetica;
+color: #FFFAFA;
+opacity: 1;
+margin-left: 965px;
+margin-top: -45px;
+}
+
+.vl1 {
+margin-top: 50px;
+border: 2px solid #7f0101;
+opacity: 1;
+height: 300px;
+width: 0%;
+margin-left: 482px;
+}
+
+.vl2 {
+margin-top: -300px;
+border: 2px solid #7f0101;
+opacity: 1;
+height: 300px;
+width: 0%;
+margin-left: 940px;
+}
+
+.line2 {
+margin-top: 50px;
+border: 2px solid #7f0101;
+opacity: 1;
+}
+.undertext {
+display: flex;
+justify-content: left;
+flex-direction: column;
+font: normal normal 37px Helvetica;
+opacity: 1;
+margin-left: 40px;
+margin-top: 40px;
+}
+
+#call {
+display: flex;
+justify-content: flex-end;
+margin-top: -110px;
+margin-right: 40px;
+font: normal normal 37px Helvetica;
+color: #FFFAFA;
+opacity: 1;
+}
+
+#q1 {
+margin-left: 100px;
+margin-top: 200px;
+font: normal normal bold 7vh Helvetica;
+letter-spacing: 0px;
+ color: #FFFAFA;
+}
+
+#a1 { 
+display: flex;
+font: normal normal 4.5vh Helvetica;
+color: #FFFAFA;
+opacity: 1;
+margin-left: 100px;
+}
+
+.line3 {
+margin-top: 100px;
+margin-bottom: -75px;
+border: 2px solid #7f0101;
+}
+
+.undertext1 {
+display: flex;
+justify-content: left;
+flex-direction: column;
+font: normal normal 37px Helvetica;
+opacity: 1;
+margin-left: 40px;
+margin-top: 120px;
+}
+
+#s1 {
+margin-top: 200px;
+margin-left: 300px;
+font: normal normal bold 50px Helvetica;
+color: #FFFAFA;
+}
+
+.prices {
+display: flex;
+justify-content: space-around;
+font: normal normal 37px Helvetica;
+color: #FFFAFA;
+background-color: #494949;
+}
+
+.subs {
+display: flex;
+justify-content: space-around;
+font: normal normal 37px Helvetica;
+color: #FFFAFA;
+}
+
+#sg {
+margin-left: 1000px;
+}
+
+#a2 {
+display: flex;
+font: normal normal 33px Times;
+color: #FFFAFA;
+opacity: 1;
+margin-left: 100px;
+margin-top: -250px;
+}
+
+#a3 {
+display: flex;
+font: normal normal 33px Times;
+color: #FFFAFA;
+opacity: 1;
+margin-left: 100px;
+}
+
+#sg1 {
+margin-left: 1100px;
+margin-top: -400px;
+}
+
+#sg2 {
+margin-left: 1100px;
+margin-bottom: -400px;
+}
+
+#sg3 {
+margin-left: 1100px;
+margin-bottom: -400px;
+}
